@@ -1,0 +1,1 @@
+module.exports.employeeValidation=require('./employee.validation');
